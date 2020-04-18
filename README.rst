@@ -1,4 +1,4 @@
-Judge Daemon
+Judge Daemon has been deprecated. Use `hydro-dev/HydroJudger <https://github.com/hydro-dev/HydroJudger>`_ instead.
 ============
 
 .. image:: https://travis-ci.org/vijos/jd4.svg?branch=master
